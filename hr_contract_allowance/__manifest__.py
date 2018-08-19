@@ -27,5 +27,5 @@
     'data': [
         'views/views.xml',
     ],
-	'images': ['static/description/banner.jpg'],
+	'images': ['static/description/Banner.png'],
 }
