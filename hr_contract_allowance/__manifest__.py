@@ -10,8 +10,8 @@
     """,
 
     'author': "I VALUE solutions",
-    'website': "www.odoo.com",
-	'email': "info@odoo.com",
+    'website': "www.ivalue-s.com",
+	'email': "info@ivalue-s.com",
     'license': "OPL-1",
 
     # Categories can be used to filter modules in modules listing
