@@ -12,7 +12,7 @@
     'author': "I VALUE solutions",
     'website': "www.ivalue-s.com",
 	'email': "info@ivalue-s.com",
-    'license': "OPL-1",
+    'license': "AGPL-3",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
