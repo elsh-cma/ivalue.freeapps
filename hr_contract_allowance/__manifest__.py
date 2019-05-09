@@ -10,7 +10,7 @@
     """,
 
     'author': "I VALUE solutions",
-    'website': "ivalue-s.com",
+    'website': "https://ivalue-s.com",
 	'email': "info@ivalue-s.com",
     'license': "AGPL-3",
 
